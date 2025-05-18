@@ -1,0 +1,11 @@
+i want full file where i have to 
+change in my code so send me full 
+code and I want like this after logged in 
++------------------------+
+|   NOVA OS v1.0        |  
+| Alpha Coders Team     |  
++------------------------+
+successful login to novaos
+Welcome to Nova OS v1.0 
+novaos> _             
+                      
